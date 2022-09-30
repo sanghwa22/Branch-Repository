@@ -1,5 +1,5 @@
-#LeeSangHwa
 # Last element will be the pivot and the first element the pointer
+#LEESANGHWA22
 
 def partition(l, r, nums):
     pivot, ptr = nums[r], l
